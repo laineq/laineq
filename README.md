@@ -4,4 +4,6 @@ This is Hongrui Qu or Elaine. I am a recent graduate from SFU data science major
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hongrui-qu-503044198)](https://www.linkedin.com/in/hongrui-qu-503044198)
-[![Gmail Badge](https://img.shields.io/badge/-laineqh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laineqh@gmail.com)](mailto:laineqh@gmail.com)
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:elaineqhr@outlook.com)](mailto:elaineqhr@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-laineqh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elaineqhr@outlook.com)](mailto:elaineqhr@outlook.com)

@@ -1,5 +1,5 @@
 Hello
-This is Hongrui Qu or Elaine. I am a recent graduate from SFU data science major and interested in 🌐cybersecurity and 🧮data analysis.
+This is Hongrui Qu or Elaine. I am currently a master's student from SFU Big Data, and interested in  🧮data analysis.
 
 
 

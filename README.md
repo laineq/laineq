@@ -15,11 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:elaineqhr@outlook.com">Email</a> •
-  <a href="https://www.linkedin.com/in/elaine-hongrui-qu/">LinkedIn</a> •
-  <a href="https://github.com/laineq">GitHub</a>
-</p>
 
 <p align="center">
   <a href="mailto:elaineqhr@outlook.com">Email</a> •

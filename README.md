@@ -27,32 +27,28 @@
 
 I am a Master's student in Big Data at Simon Fraser University with interests in data engineering, machine learning, and applied AI.
 
-I enjoy building practical systems that turn real-world data into structured insights, forecasting workflows, and decision-support tools.
+I enjoy building practical systems that turn real-world data into structured insights, and decision-support tools.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,php,mysql,postgres,docker,aws,gcp,git,linux,tensorflow,pytorch" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,sklearn,fastapi,flask,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws" />
 </p>
 
 ---
 
-## Project Showcase
+## Selected Projects
 
 ### DataWings
-Bird migration analytics platform integrating ecological and climate data through scalable data pipelines.
+Bird migration analytics platform integrating climate factors through scalable data pipelines.
 
 ### Resume–Job Matcher
 Semantic matching workflow that ranks job postings using embeddings and cosine similarity.
 
 ### SQL Agent
-LLM-powered SQL exploration workflow for querying structured data more naturally.
+LLM-powered SQL exploration workflow for querying structured data.
 
 ---
 

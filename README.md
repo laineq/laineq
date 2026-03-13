@@ -1,14 +1,24 @@
-<h1 align="center">
-  <span style="color:#3D85C6;">Hongrui (Elaine) Qu</span>
-</h1>
+<!-- Top blue animated header -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:2E86C1&height=220&section=header&text=Hongrui%20(Elaine)%20Qu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=58&descSize=18"
+    alt="header"
+  />
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&pause=1200&color=3D85C6&center=true&vCenter=true&width=900&lines=MSc+Big+Data+student+at+Simon+Fraser+University;Building+data-driven+systems%2C+analytics+pipelines%2C+and+AI+applications;Interested+in+Data+Engineering%2C+NLP%2C+Forecasting%2C+and+Applied+AI"
+      src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1200&color=2E86C1&center=true&vCenter=true&width=900&lines=MSc+Big+Data+student+at+Simon+Fraser+University;Building+data-driven+systems+and+decision-support+tools;Interested+in+Data+Engineering%2C+NLP%2C+and+Applied+AI"
       alt="Typing SVG"
     />
   </a>
+</p>
+
+<p align="center">
+  <a href="mailto:elaineqhr@outlook.com">Email</a> •
+  <a href="https://www.linkedin.com/in/elaine-hongrui-qu/">LinkedIn</a> •
+  <a href="https://github.com/laineq">GitHub</a>
 </p>
 
 <p align="center">

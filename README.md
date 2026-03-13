@@ -1,15 +1,11 @@
-<!-- Top blue animated header -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:2E86C1&height=220&section=header&text=Hongrui%20(Elaine)%20Qu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=58&descSize=18"
-    alt="header"
-  />
-</p>
+<h1 align="center">
+  <span style="color:#3D85C6;">Hongrui (Elaine) Qu</span>
+</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&pause=1200&color=2E86C1&center=true&vCenter=true&width=900&lines=MSc+Big+Data+student+at+Simon+Fraser+University;Building+data-driven+systems+and+decision-support+tools;Interested+in+Data+Engineering%2C+NLP%2C+and+Applied+AI"
+      src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&pause=1200&color=3D85C6&center=true&vCenter=true&width=900&lines=MSc+Big+Data+student+at+Simon+Fraser+University;Building+data-driven+systems%2C+analytics+pipelines%2C+and+AI+applications;Interested+in+Data+Engineering%2C+NLP%2C+Forecasting%2C+and+Applied+AI"
       alt="Typing SVG"
     />
   </a>
@@ -17,67 +13,56 @@
 
 <p align="center">
   <a href="mailto:elaineqhr@outlook.com">Email</a> •
-  <a href="https://www.linkedin.com/in/elaine-hongrui-qu/">LinkedIn</a> •
-  <a href="https://github.com/laineq">GitHub</a>
+  <a href="https://www.linkedin.com/in/elaine-hongrui-qu/">LinkedIn</a>
 </p>
 
 ---
 
 ## About Me
 
-I’m an MSc Big Data student at Simon Fraser University with interests in **data engineering**, **machine learning**, and **applied NLP**.
+I am a Master's student in Big Data at Simon Fraser University with interests in data engineering, machine learning, and applied AI.
 
-I enjoy building systems that turn messy real-world data into **structured insights**, **forecasting workflows**, and **decision-support tools**.
-
----
-
-## Current Focus
-
-- Building **data pipelines** and analytics workflows
-- Exploring **SQL agents**, **RAG chatbots**, and **semantic search**
-- Applying machine learning to **forecasting** and real-world decision problems
-
----
-
-## Selected Projects
-
-### DataWings
-Large-scale bird migration analytics pipeline integrating ecological and climate data.
-
-### Resume–Job Matcher
-Semantic matching workflow that ranks job postings using embeddings and cosine similarity.
-
-### SQL Agent
-LLM-powered SQL workflow for querying structured data more naturally.
-
-### RAG Chatbot
-Retrieval-augmented chatbot built with LangChain and vector search concepts.
-
-### Grocery Prediction
-Time-series forecasting project for grocery price trends using statistical and ML methods.
+I enjoy building practical systems that turn real-world data into structured insights, forecasting workflows, and decision-support tools.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-Python · SQL · R · Java · PHP
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,php,mysql,postgres,docker,aws,gcp,git,linux,tensorflow,pytorch" />
+</p>
 
-**Data / ML**  
-Pandas · PySpark · Scikit-learn · Sentence Transformers · Statsmodels
-
-**Cloud / Tools**  
-AWS · Google Cloud · Docker · Git · Tableau
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn,fastapi,flask,vscode" />
+</p>
 
 ---
 
-## Fun Note
+## Project Showcase
 
-I like projects where **data meets real-world systems** — from migration patterns and grocery prices to job matching and intelligent agents.
+### DataWings
+Bird migration analytics platform integrating ecological and climate data through scalable data pipelines.
+
+### Resume–Job Matcher
+Semantic matching workflow that ranks job postings using embeddings and cosine similarity.
+
+### SQL Agent
+LLM-powered SQL exploration workflow for querying structured data more naturally.
+
+---
+
+## Currently Working On
+
+### RAG Chatbot
+Retrieval-augmented chatbot built with LangChain and vector-search-based retrieval.
+
+### Grocery Price Prediction
+Forecasting workflow for grocery price trends using time-series and machine learning methods.
+
+---
+
+## Fun Section
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:2E86C1&height=120&section=footer"
-    alt="footer"
-  />
+  <img src="https://raw.githubusercontent.com/laineq/laineq/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>

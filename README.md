@@ -15,13 +15,10 @@
 
 <p align="center">
   <a href="mailto:elaineqhr@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" width="20"/>
-    Email
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/elaine-hongrui-qu/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
 </p>
 

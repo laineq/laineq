@@ -14,9 +14,12 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:elaineqhr@outlook.com">Email</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  💼 <a href="https://www.linkedin.com/in/elaine-hongrui-qu/">LinkedIn</a>
+  <a href="mailto:elaineqhr@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-blue?logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elaine-hongrui-qu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -36,7 +39,7 @@ I enjoy building practical systems that turn real-world data into **structured i
 </p>
 
 <p align="center">
-  Python &nbsp;&nbsp; MySQL &nbsp;&nbsp; Docker &nbsp;&nbsp; AWS
+  Python &nbsp;&nbsp; SQL &nbsp;&nbsp; Docker &nbsp;&nbsp; AWS
 </p>
 
 ---

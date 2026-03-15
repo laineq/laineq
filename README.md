@@ -26,7 +26,7 @@
 
 ## About Me
 
-I am a Master's student in **Big Data at Simon Fraser University** with interests in **data engineering, machine learning, and applied AI**.
+I am a **Master's student in Big Data at Simon Fraser University** with interests in **data engineering, machine learning, and applied AI**.
 
 I enjoy building practical systems that turn real-world data into **structured insights and decision-support tools**.
 

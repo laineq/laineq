@@ -55,18 +55,18 @@ Semantic matching workflow that ranks job postings using embeddings and cosine s
 🔹 **[Human Gait Symmetry Analysis](https://github.com/laineq/Human-Gait-Symmetry--Python-Data-Analysis)**  
 Data analysis project exploring gait symmetry metrics using Python and statistical methods.
 
-🔹 **SQL Agent (in progress)**  
-LLM-powered SQL exploration tool for querying structured databases.
-
 ---
 
 ## 🧠 Currently Working On
 
-🔸 **RAG Chatbot** *(repo coming soon)*  
-Retrieval-augmented chatbot built with LangChain and vector search.
+🔸 **[RAG Chatbot](https://github.com/laineq/Chatbot-RAG)**
+RAG-based chatbot implementing document embeddings and vector similarity search to generate context-aware LLM responses.
 
 🔸 **Grocery Price Prediction** *(repo coming soon)*  
 Time-series forecasting workflow for grocery price trends.
+
+🔸 **Cloud Deployment Performance Study – Microservices E-commerce** *(repo coming soon)*  
+Experimental microservices system (Python, FastAPI, MySQL) comparing **VM, container, and serverless deployments on Google Cloud** to evaluate latency and performance.
 
 ---
 

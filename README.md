@@ -60,6 +60,7 @@ End-to-end data analysis project applying statistical methods and machine learni
 ## 🧠 Currently Working On
 
 🔸 **[RAG Chatbot](https://github.com/laineq/Chatbot-RAG)**
+
 RAG-based LLM system for knowledge assistance, integrating document embeddings and semantic search (pgvector) to generate grounded, context-aware responses. Currently extending the system with query optimization and reranking for improved retrieval quality.
 
 🔸 **[Grocery Price Prediction](https://github.com/laineq/Grocery-Price-Prediction.git)**  

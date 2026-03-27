@@ -47,26 +47,26 @@ I enjoy building practical systems that turn real-world data into **structured i
 ## 🚀 Selected Projects
 
 🔹 **[DataWings](https://github.com/laineq/DataWings)**  
-Bird migration analytics platform integrating climate factors through scalable data pipelines.
+Scalable bird migration analytics platform built on AWS (S3, EMR, PySpark), integrating large-scale eBird data with climate indicators and engineered features for pattern analysis.
 
 🔹 **[Resume–Job Matcher](https://github.com/laineq/resume-job-matcher)**  
-Semantic matching workflow that ranks job postings using embeddings and cosine similarity.
+Semantic matching system using sentence embeddings and cosine similarity to rank job postings based on resume relevance.
 
 🔹 **[Human Gait Symmetry Analysis](https://github.com/laineq/Human-Gait-Symmetry--Python-Data-Analysis)**  
-Data analysis project exploring gait symmetry metrics using Python and statistical methods.
+End-to-end data analysis project applying statistical methods and machine learning to study gait symmetry patterns from experimental datasets.
 
 ---
 
 ## 🧠 Currently Working On
 
 🔸 **[RAG Chatbot](https://github.com/laineq/Chatbot-RAG)**
-RAG-based chatbot implementing document embeddings and vector similarity search to generate context-aware LLM responses.
+RAG-based LLM system for clinical knowledge assistance, integrating document embeddings, semantic search (pgvector), and external retrieval to generate grounded, citation-aware responses with improved relevance through query rewriting and reranking.
 
 🔸 **[Grocery Price Prediction](https://github.com/laineq/Grocery-Price-Prediction.git)**  
-End-to-end grocery price（tomato and avocado) forecasting system combining time-series models and machine learning with external supply chain indicators.
+End-to-end forecasting system for avocado and tomato prices using time-series models and machine learning with external supply chain and economic indicators.
 
 🔸 **[Cloud-Microservices-Performance](https://github.com/laineq/Cloud-Microservices-Performance.git)**  
-Experimental microservices system (Python, FastAPI, MySQL) comparing **VM, container, and serverless deployments on Google Cloud** to evaluate latency and performance.
+E-commerce microservices system (Python, FastAPI, MySQL) deployed across VM, container, and serverless environments on Google Cloud to evaluate latency and performance trade-offs.
 
 ---
 

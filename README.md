@@ -65,7 +65,7 @@ RAG-based chatbot implementing document embeddings and vector similarity search 
 🔸 **[Grocery Price Prediction](https://github.com/laineq/Grocery-Price-Prediction.git)**  
 End-to-end grocery price（tomato and avocado) forecasting system combining time-series models and machine learning with external supply chain indicators.
 
-🔸 **Cloud Deployment Performance Study – Microservices E-commerce** *(repo coming soon)*  
+🔸 **[Cloud-Microservices-Performance](https://github.com/laineq/Cloud-Microservices-Performance.git)**  
 Experimental microservices system (Python, FastAPI, MySQL) comparing **VM, container, and serverless deployments on Google Cloud** to evaluate latency and performance.
 
 ---

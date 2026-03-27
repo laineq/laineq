@@ -62,7 +62,7 @@ Data analysis project exploring gait symmetry metrics using Python and statistic
 🔸 **[RAG Chatbot](https://github.com/laineq/Chatbot-RAG)**
 RAG-based chatbot implementing document embeddings and vector similarity search to generate context-aware LLM responses.
 
-🔸 **Grocery Price Prediction** *([Grocery Price Prediction](https://github.com/laineq/Grocery-Price-Prediction.git))*  
+🔸 **[Grocery Price Prediction](https://github.com/laineq/Grocery-Price-Prediction.git)**  
 End-to-end grocery price（tomato and avocado) forecasting system combining time-series models and machine learning with external supply chain indicators.
 
 🔸 **Cloud Deployment Performance Study – Microservices E-commerce** *(repo coming soon)*  

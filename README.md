@@ -46,8 +46,11 @@ I enjoy building practical systems that turn real-world data into **structured i
 
 ## 🚀 Selected Projects
 
+🔹 **[Grocery Price Prediction](https://github.com/laineq/Grocery-Price-Prediction.git)**  
+End-to-end forecasting system for avocado and tomato prices using time-series and machine-learning models, integrating economic and weather signals. Automated with Airflow on AWS and deployed via a web app and interactive dashboard.
+
 🔹 **[DataWings](https://github.com/laineq/DataWings)**  
-Scalable bird migration analytics platform built on AWS (S3, EMR, PySpark), integrating large-scale eBird data with climate indicators and engineered features for pattern analysis.
+Scalable bird migration analytics platform built on AWS (S3, EMR, PySpark), integrating large-scale eBird data with climate indicators and engineered features for migration pattern analysis.
 
 🔹 **[Resume–Job Matcher](https://github.com/laineq/resume-job-matcher)**  
 Semantic matching system using sentence embeddings and cosine similarity to rank job postings based on resume relevance.
@@ -61,9 +64,6 @@ End-to-end data analysis project applying statistical methods and machine learni
 
 🔸 **[RAG Chatbot](https://github.com/laineq/Chatbot-RAG)**  
 RAG-based LLM system for knowledge assistance, integrating document embeddings and semantic search (pgvector) to generate grounded, context-aware responses. Currently extending the system with query optimization and reranking for improved retrieval quality.
-
-🔸 **[Grocery Price Prediction](https://github.com/laineq/Grocery-Price-Prediction.git)**  
-End-to-end forecasting system for avocado and tomato prices using time-series models and machine learning with external supply chain and economic indicators.
 
 🔸 **[Cloud-Microservices-Performance](https://github.com/laineq/Cloud-Microservices-Performance.git)**  
 E-commerce microservices system (Python, FastAPI, MySQL) deployed across VM, container, and serverless environments on Google Cloud to evaluate latency and performance trade-offs.

@@ -35,18 +35,21 @@ I enjoy building practical systems that turn real-world data into **structured i
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <!-- skillicons supported -->
-  <img src="https://skillicons.dev/icons?i=python,docker,gcp,aws" />
-
-  <!-- Spark (custom icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="spark"/>
-
-  <!-- FastAPI (custom icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="fastapi"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" alt="Spark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="GCP" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
 </p>
 
 <p align="center">
-  Python &nbsp;&nbsp; Spark &nbsp;&nbsp; FastAPI &nbsp;&nbsp; Docker &nbsp;&nbsp; GCP &nbsp;&nbsp; AWS
+  Python &nbsp;&nbsp;&nbsp;
+  Spark &nbsp;&nbsp;&nbsp;
+  FastAPI &nbsp;&nbsp;&nbsp;
+  Docker &nbsp;&nbsp;&nbsp;
+  GCP &nbsp;&nbsp;&nbsp;
+  AWS
 </p>
 
 ---

@@ -35,7 +35,14 @@ I enjoy building practical systems that turn real-world data into **structured i
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,spark,fastapi,docker,gcp,aws" />
+  <!-- skillicons supported -->
+  <img src="https://skillicons.dev/icons?i=python,docker,gcp,aws" />
+
+  <!-- Spark (custom icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" alt="spark"/>
+
+  <!-- FastAPI (custom icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="fastapi"/>
 </p>
 
 <p align="center">

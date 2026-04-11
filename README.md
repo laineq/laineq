@@ -35,11 +35,11 @@ I enjoy building practical systems that turn real-world data into **structured i
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,spark,fastapi,docker,gcp,aws" />
 </p>
 
 <p align="center">
-  Python &nbsp;&nbsp; Spark &nbsp;&nbsp; FastAPI &nbsp;&nbsp; Shiny &nbsp;&nbsp; MySQL &nbsp;&nbsp; NoSQL &nbsp;&nbsp; Docker &nbsp;&nbsp; GCP &nbsp;&nbsp; AWS
+  Python &nbsp;&nbsp; Spark &nbsp;&nbsp; FastAPI &nbsp;&nbsp; Docker &nbsp;&nbsp; GCP &nbsp;&nbsp; AWS
 </p>
 
 ---

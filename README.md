@@ -52,9 +52,6 @@ End-to-end forecasting system for avocado and tomato prices using time-series an
 🔹 **[DataWings](https://github.com/laineq/DataWings)**  
 Scalable bird migration analytics platform built on AWS (S3, EMR, PySpark), integrating large-scale eBird data with climate indicators and engineered features for migration pattern analysis.
 
-🔹 **[Resume–Job Matcher](https://github.com/laineq/resume-job-matcher)**  
-Semantic matching system using sentence embeddings and cosine similarity to rank job postings based on resume relevance.
-
 🔹 **[Human Gait Symmetry Analysis](https://github.com/laineq/Human-Gait-Symmetry--Python-Data-Analysis)**  
 End-to-end data analysis project applying statistical methods and machine learning to study gait symmetry patterns from experimental datasets.
 

@@ -39,7 +39,7 @@ I enjoy building practical systems that turn real-world data into **structured i
 </p>
 
 <p align="center">
-  Python &nbsp;&nbsp; SQL &nbsp;&nbsp; Docker &nbsp;&nbsp; AWS
+  Python &nbsp;&nbsp; Spark &nbsp;&nbsp; FastAPI &nbsp;&nbsp; Shiny &nbsp;&nbsp; MySQL &nbsp;&nbsp; NoSQL &nbsp;&nbsp; Docker &nbsp;&nbsp; GCP &nbsp;&nbsp; AWS
 </p>
 
 ---

@@ -39,8 +39,8 @@ I enjoy building practical systems that turn real-world data into **structured i
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" alt="Spark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="GCP" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="GCP" />
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@ I enjoy building practical systems that turn real-world data into **structured i
   Spark &nbsp;&nbsp;&nbsp;
   FastAPI &nbsp;&nbsp;&nbsp;
   Docker &nbsp;&nbsp;&nbsp;
-  GCP &nbsp;&nbsp;&nbsp;
-  AWS
+  AWS &nbsp;&nbsp;&nbsp;
+  GCP
 </p>
 
 ---
